@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Objective-C: accessing an array element using an index that is out of bounds.  The `bug.m` file contains the erroneous code, while `bugSolution.m` provides a corrected version.  The error can lead to crashes or unexpected behavior.  Always ensure that your array indices are within the valid range (0 to count - 1).
